@@ -1,4 +1,5 @@
-Crop,Cost ($/acre),Return ($/acre),Productivity (bu/acre),Productivity (cwt/acre),Productivity (lbs/acre),Return ($/bu),Return ($/cwt),Return ($/lb),
+Crop,Cost,Return,Productivity,Productivity,Productivity,Return,Return,Return,
+unit,($/acre), ($/acre), (bu/acre), (cwt/acre), (lbs/acre), ($/bu), ($/cwt), ($/lb)
 Corn,257.65,565.12,176.6,,,3.2,,,
 Soybean,158.14,386.908,49.1,,,7.88,,,
 Wheat,159.57,217.147,46.3,,,4.69,,,
