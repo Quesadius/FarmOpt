@@ -1,0 +1,9 @@
+,Enclosed_Housing,Exercise_Yard,Pasture,Corn,Soybean,Wheat,Hay,Other_Costs,Net_Return,Gross_income
+Unit,sq. ft./hd,sq.ft./hd,acres/hd,$/hd,$/hd,$/hd,$/hd,$/hd,$/hd,$/hd
+Yearling_Steers,75,100,1,259.18,0,121.6,88.24,2586.44,133.74,3189.2
+Steers_Calves,75,100,1,164.28,0,84.11,93.75,1224.4,23.8,1590.34
+Dairy_Goat,20,50,0.2,0,0,114.75,90,494.16,29.92,728.83
+Pig,48,200,0,59.08,28.06,16.18,0,135.54,33.12,271.98
+Sheep,20,50,0.2,0,0,22.5,12,15.65,50,100.15
+Broiler_regular,3,0,0,0,0,0,0,72.46,13.94,86.4
+Broiler_organic,3,10,0,20.19,0,0.64,0,62.94,2.63,86.4
