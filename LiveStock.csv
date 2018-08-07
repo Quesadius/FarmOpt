@@ -1,4 +1,4 @@
-,Enclosed_Housing,Exercise_Yard,Pasture,Corn,Soybean,Wheat,Hay,Other_Costs,Return,Gross_income, Cost
+,Enclosed_Housing,Exercise_Yard,Pasture,Corn,Soybean,Wheat,Hay,Other_Costs,Net_Return,Return,Cost
 Unit,sq. ft./hd,sq.ft./hd,acres/hd,$/hd,$/hd,$/hd,$/hd,$/hd,$/hd,$/hd,$/hd
 Yearling_Steers,75,100,1,259.18,0,121.6,88.24,2586.44,133.74,3189.2,3055.46
 Steers_Calves,75,100,1,164.28,0,84.11,93.75,1224.4,23.8,1590.34,1566.54
