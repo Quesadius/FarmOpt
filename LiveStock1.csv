@@ -1,4 +1,4 @@
-Livestocks,Enclosed_Housing,Exercise_Yard,Pasture,Corn,Soybean,Wheat,Hay,Other_Costs,Fixed_Cost,Return,Net_Return,Cost
+Livestocks,Enclosed_Housing,Exercise_Yard,Pasture,Corn,Soybean,Wheat,Hay,Other_Cost,Fixed_Cost,Return,Net_Return,Cost
 Yearling_Steers,75,100,1,259.18,0,121.6,88.24,2459.32,127.12,3189.2,133.74,3055.46
 Steers_Calves,75,100,1,164.28,0,84.11,93.75,1128.44,95.96,1590.34,23.8,1566.54
 Dairy_Goat,20,50,0.2,0,0,114.75,90,415.06,79.1,728.83,29.92,698.91
