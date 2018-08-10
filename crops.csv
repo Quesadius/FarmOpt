@@ -1,13 +1,13 @@
-Crop,Cost ($/acre),Return ($/acre),Productivity (bu/acre),Productivity (cwt/acre),Productivity (lbs/acre),Return ($/bu),Return ($/cwt),Return ($/lb),
-Corn,257.65,565.12,176.6,,,3.2,,,
-Soybean,158.14,386.908,49.1,,,7.88,,,
-Wheat,159.57,217.147,46.3,,,4.69,,,
-Oat,119.38,143.144,61.7,,,2.32,,,
-Barley,135.24,323.07,72.6,,,4.45,,,
-Flaxseed,130.77,142.41,14.1,,,10.1,,,
-Rye,225.65,161.025,33.9,,,4.75,,,
-Peas,116.83,14512.5,,1350,,,10.75,,
-Beans,239.63,41853.5,,1781,,,23.5,,
-Canola,187.14,327.18,,,1558,,,0.21,
-Sunflower,233.22,580.68,,,1613,,,0.36,
-Hops,4000,15672,,,1959,,,8,http://msue.anr.msu.edu/uploads/resources/pdfs/Estimated_Costs_of_Producing_Hops_in_Michigan_(E3236).pdf
+Crop,Cost,Return, Fixed_Cost
+Corn,257.65,565.12,10000
+Soybean,158.14,386.908,10000
+Wheat,159.57,217.147,15000
+Oat,119.38,143.144,15000
+Barley,135.24,323.07,15000
+Flaxseed,130.77,142.41,150000
+Rye,225.65,161.025,150000
+Peas,116.83,229.69,10000
+Beans,239.63,401.96,10000
+Canola,187.14,327.18,10000
+Sunflower,233.22,580.68,10000
+Hay,147.28,322.08,15000
